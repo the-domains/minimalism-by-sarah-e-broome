@@ -1,0 +1,28 @@
+name: Minimalism by Sarah E Broome
+favicon: null
+layout_spectrum: 0.30229511042125523
+typography_spectrum: 0.361932568019256
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5587905722204596
+  lightness: 0.8462722315452993
+  saturation: 0.3603525327052921
+  rhythmicContrast: 0.37150239991024137
+purpose: []
