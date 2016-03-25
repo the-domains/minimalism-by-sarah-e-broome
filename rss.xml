@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Minimalism by Sarah E Broome]]></title>
         <description><![CDATA[Minimalism by Sarah E Broome]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/minimalism-by-sarah-e-broome/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 15:39:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 15:55:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/minimalism-by-sarah-e-broome/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a44709f-a430-4c31-ad8c-fdccad718083.jpg">]]></description>
-            <link>undefinedminimalist-iceland/index.html</link>
+            <link>https://thegrid.ai/minimalism-by-sarah-e-broome/minimalist-iceland/index.html</link>
             <guid isPermaLink="false">1e51c90c-baed-48c3-83d0-b961c5ed1e09</guid>
-            <pubDate>Fri, 25 Mar 2016 15:39:20 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2016 15:54:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
