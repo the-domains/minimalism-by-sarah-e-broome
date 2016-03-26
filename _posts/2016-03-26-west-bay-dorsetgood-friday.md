@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'West Bay, Dorset...Good Friday'
-datePublished: '2016-03-26T07:15:20.086Z'
-dateModified: '2016-03-26T06:47:12.105Z'
+datePublished: '2016-03-26T12:29:23.636Z'
+dateModified: '2016-03-26T12:29:09.868Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-26-west-bay-dorsetgood-friday.md
